@@ -1,3 +1,9 @@
+'''
+    Lesson: Typecasting
+    Author: Owais Ali Khan
+    Date Created: Sept 23, 2024
+    Date Last Modified: Sept 23, 2024
+'''
 
 def q1():
   integer = input("Input an integer: ")
@@ -34,12 +40,11 @@ def q5():
 
 #Comment this code out when running tests
 #Do not comment this out when running your program normally
-
+'''
 q1()
 q2()
 q3()
 q4()
 q5()
-
- 
+'''
  
