@@ -11,8 +11,8 @@ def q1():
   print(integer + 3)
 
 def q2():
-  num1 = input("Input a number: ")
-  num1 = num1 + "4"
+  num1 = input("Input a number:  ")
+  num1 = (num1 + "4")
   num1 = float(num1)
   print(num1 + 2)
 
@@ -29,7 +29,7 @@ def q4():
   num3 = float(num3)
   num3 = num3*12
   num3 = int(num3)
-  print(num3)
+  print (num3)
 
 
 def q5():
