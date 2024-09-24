@@ -2,7 +2,7 @@
     Lesson: Typecasting
     Author: Owais Ali Khan
     Date Created: Sept 23, 2024
-    Date Last Modified: Sept 23, 2024
+    Date Last Modified: Sept 24, 2024
 '''
 
 def q1():
@@ -12,7 +12,7 @@ def q1():
 
 def q2():
   num1 = input("Input a number: ")
-  num1 = float(str(num1)+"4")+ 2
+  num1 = float(num1+"4")+ 2
   print(num1)
 
 
